@@ -1,13 +1,13 @@
 
 ## Overview
 
-NOTE: The image has moved to: https://registry.hub.docker.com/u/laser/stack-builder/
+You can get at the image here: https://registry.hub.docker.com/u/laser/stack-builder/
 
 This is a quick attempt to get Stack (wrapping GHC and Cabal) into a Docker
 image.
 
-The base image is Debian Linux. I would like to replace this with Alpine (or
-something similarly small) in the future.
+The base image is Debian Linux (Jessie). I would like to replace this with Alpine (or
+something similarly-small) in the future.
 
 ## Layout
 
